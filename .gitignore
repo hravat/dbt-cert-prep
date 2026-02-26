@@ -2,3 +2,5 @@
 zig-out/
 *.o
 dbt/profiles.yml
+
+*.env
